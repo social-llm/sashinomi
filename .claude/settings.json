@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(CLAUDE.md)",
+      "Edit(reports/c0-report.md)",
+      "Write(reports/c0-report.md)",
+      "Bash(sleep *)",
+      "Bash(tail *)",
+      "Bash(tmux send-keys:*)",
+      "Bash(tmux capture-pane:*)"
+        ],
+    "deny": []
+  },
+  "env": {}
+}

@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(CLAUDE.md)",
+      "Edit(../reports/c1-report.md)",
+      "Write(../reports/c1-report.md)",
+      "Bash(sleep *)",
+      "Bash(tmux send-keys:*)"
+        ],
+    "deny": []
+  },
+  "env": {}
+}
